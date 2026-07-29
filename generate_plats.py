@@ -99,4 +99,3 @@ with open(chemin_fichier, "w", encoding="utf-8") as f:
     json.dump(plats, f, ensure_ascii=False, indent=2)
 
 print(f"🎉 Succès ! Le fichier '{chemin_fichier}' a été généré avec {len(plats)} plats !")
-

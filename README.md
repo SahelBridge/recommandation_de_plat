@@ -9,7 +9,7 @@ Projet Python pour la génération et le traitement de données de recommandatio
 ```
 recommandation_de_plat/
 ├── data/                         # Jeux de données générés (500 plats)
-├── generate_500_dishes.py        # Script de génération synthétique de plats et caractéristiques
+├── generate_plats.py             # Script de génération synthétique de plats et caractéristiques
 └── load_data.py                  # Script de chargement et d'analyse des données
 ```
 
@@ -17,7 +17,7 @@ recommandation_de_plat/
 
 1. Générer les plats :
    ```bash
-   python3 generate_500_dishes.py
+   python3 generate_plats.py
    ```
 2. Charger et tester les données :
    ```bash
