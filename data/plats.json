@@ -1,0 +1,10511 @@
+[
+  {
+    "id": "plat_001",
+    "nom": "Riz Gras au Boeuf Maison",
+    "ingredients": [
+      "poivron",
+      "oignon",
+      "tomate",
+      "boeuf",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_002",
+    "nom": "Riz Gras au Tofu Royal",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "tomate",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_003",
+    "nom": "Curry au Tofu Express",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "mais",
+      "curry",
+      "lait_de_coco",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_004",
+    "nom": "Tchep aux Légumes Épicé",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "tomate",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_005",
+    "nom": "Grillade aux Légumes Épicée",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "grillade",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_006",
+    "nom": "Maffe d'Agneau Maison",
+    "ingredients": [
+      "agneau",
+      "pate_d_arachide",
+      "tomate",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_007",
+    "nom": "Riz Gras aux Oeufs Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "tomate",
+      "oeuf",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_008",
+    "nom": "Couscous aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_009",
+    "nom": "Brochette aux Oeufs Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "oeuf",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_010",
+    "nom": "Sauté au Poulet Gourmand",
+    "ingredients": [
+      "sauce_soja",
+      "carotte",
+      "poulet",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_011",
+    "nom": "Alloco aux Oeufs Express",
+    "ingredients": [
+      "mais",
+      "huile",
+      "banane_aloco",
+      "oeuf",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "rapide",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_012",
+    "nom": "Curry au Boeuf Maison",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "boeuf",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_013",
+    "nom": "Maffe aux Légumes Épicé",
+    "ingredients": [
+      "courgette",
+      "pate_d_arachide",
+      "tomate",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_014",
+    "nom": "Soupe aux Crevettes Douce",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "herbes_de_provence",
+      "crevettes",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_015",
+    "nom": "Sauté aux Oeufs Maison",
+    "ingredients": [
+      "sauce_soja",
+      "carotte",
+      "oeuf",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_016",
+    "nom": "Couscous aux Crevettes Gourmand",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "crevettes",
+      "carotte",
+      "semoule",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_017",
+    "nom": "Maffe au Poulet Royal",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "poulet",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_018",
+    "nom": "Sauté au Boeuf Maison",
+    "ingredients": [
+      "sauce_soja",
+      "boeuf",
+      "carotte",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_019",
+    "nom": "Grillade au Poulet Épicée",
+    "ingredients": [
+      "poulet",
+      "oignon",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "grillade",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_020",
+    "nom": "Salade au Poulet Douce",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "herbes_de_provence",
+      "poulet",
+      "laitue"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_021",
+    "nom": "Tchep au Tofu Doux",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_022",
+    "nom": "Couscous aux Légumes Doux",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "herbes_de_provence",
+      "carotte",
+      "semoule"
+    ],
+    "tags": [
+      "doux",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_023",
+    "nom": "Lasagne au Tofu Gourmande",
+    "ingredients": [
+      "tofu",
+      "pates",
+      "oignon",
+      "tomate",
+      "creme_fraiche",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_024",
+    "nom": "Wok aux Crevettes Épicé",
+    "ingredients": [
+      "sauce_soja",
+      "crevettes",
+      "nouilles",
+      "champignons",
+      "piment",
+      "poivron"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_025",
+    "nom": "Grillade au Tofu Express",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "mais",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "grillade",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_026",
+    "nom": "Salade aux Oeufs Express",
+    "ingredients": [
+      "mais",
+      "concombre",
+      "tomate",
+      "oeuf",
+      "laitue"
+    ],
+    "tags": [
+      "frais",
+      "rapide",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_027",
+    "nom": "Grillade aux Oeufs Douce",
+    "ingredients": [
+      "oignon",
+      "herbes_de_provence",
+      "oeuf",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "doux",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_028",
+    "nom": "Yassa au Tofu Maison",
+    "ingredients": [
+      "moutarde",
+      "tofu",
+      "oignon",
+      "citron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_029",
+    "nom": "Yassa aux Crevettes Épicé",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "crevettes",
+      "piment",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_030",
+    "nom": "Yassa au Poisson Épicé",
+    "ingredients": [
+      "moutarde",
+      "poisson",
+      "oignon",
+      "piment",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_031",
+    "nom": "Sauté aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "sauce_soja",
+      "carotte",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_032",
+    "nom": "Bowl d'Agneau Express",
+    "ingredients": [
+      "mais",
+      "agneau",
+      "quinoa",
+      "concombre",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "rapide",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_033",
+    "nom": "Alloco au Poulet Épicé",
+    "ingredients": [
+      "poulet",
+      "piment",
+      "banane_aloco",
+      "huile"
+    ],
+    "tags": [
+      "fast_food",
+      "friture",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_034",
+    "nom": "Bowl aux Oeufs Doux",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "herbes_de_provence",
+      "oeuf",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_035",
+    "nom": "Riz Gras aux Crevettes Royal",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "crevettes",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_036",
+    "nom": "Lasagne au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "pates",
+      "oignon",
+      "tomate",
+      "pomme_de_terre",
+      "fromage"
+    ],
+    "tags": [
+      "familial",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_037",
+    "nom": "Sauté aux Légumes Royal",
+    "ingredients": [
+      "courgette",
+      "sauce_soja",
+      "carotte",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_038",
+    "nom": "Brochette au Boeuf Douce",
+    "ingredients": [
+      "poivron",
+      "oignon",
+      "herbes_de_provence",
+      "boeuf",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_039",
+    "nom": "Grillade aux Légumes Gourmande",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "piment",
+      "citron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "grillade",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_040",
+    "nom": "Curry au Poisson Royal",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_041",
+    "nom": "Curry d'Agneau Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "agneau",
+      "curry",
+      "lait_de_coco",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_042",
+    "nom": "Soupe au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "bouillon",
+      "oignon",
+      "pomme_de_terre",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_043",
+    "nom": "Bowl au Poulet Maison",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "poulet",
+      "maïs",
+      "pomme_de_terre",
+      "avocat"
+    ],
+    "tags": [
+      "familial",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_044",
+    "nom": "Grillade au Boeuf Maison",
+    "ingredients": [
+      "oignon",
+      "piment",
+      "citron",
+      "boeuf",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_045",
+    "nom": "Soupe au Boeuf Douce",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "herbes_de_provence",
+      "boeuf",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_046",
+    "nom": "Bowl au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "quinoa",
+      "concombre",
+      "maïs",
+      "pomme_de_terre",
+      "avocat"
+    ],
+    "tags": [
+      "familial",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_047",
+    "nom": "Tchep au Poisson Express",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "mais",
+      "tomate",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_048",
+    "nom": "Yassa d'Agneau Maison",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "agneau",
+      "citron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_049",
+    "nom": "Salade aux Crevettes Épicée",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "crevettes",
+      "piment",
+      "laitue"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_050",
+    "nom": "Couscous au Poisson Maison",
+    "ingredients": [
+      "courgette",
+      "poisson",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_051",
+    "nom": "Riz Gras au Boeuf Royal",
+    "ingredients": [
+      "poivron",
+      "oignon",
+      "tomate",
+      "champignons",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_052",
+    "nom": "Soupe aux Légumes Royale",
+    "ingredients": [
+      "courgette",
+      "bouillon",
+      "oignon",
+      "champignons",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_053",
+    "nom": "Couscous d'Agneau Royal",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "agneau",
+      "carotte",
+      "semoule",
+      "champignons"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_054",
+    "nom": "Maffe d'Agneau Gourmand",
+    "ingredients": [
+      "agneau",
+      "pate_d_arachide",
+      "tomate",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_055",
+    "nom": "Brochette au Poulet Épicée",
+    "ingredients": [
+      "oignon",
+      "poulet",
+      "piment",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_056",
+    "nom": "Maffe au Boeuf Doux",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "herbes_de_provence",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_057",
+    "nom": "Bowl au Poisson Épicé",
+    "ingredients": [
+      "poisson",
+      "quinoa",
+      "concombre",
+      "piment",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "epice",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_058",
+    "nom": "Riz Gras aux Crevettes Doux",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "crevettes",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_059",
+    "nom": "Maffe au Boeuf Gourmand",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "boeuf",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_060",
+    "nom": "Bowl d'Agneau Gourmand",
+    "ingredients": [
+      "agneau",
+      "quinoa",
+      "concombre",
+      "maïs",
+      "avocat",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "riche",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_061",
+    "nom": "Grillade au Boeuf Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "piment",
+      "citron",
+      "boeuf"
+    ],
+    "tags": [
+      "grillade",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_062",
+    "nom": "Bowl au Poisson Gourmand",
+    "ingredients": [
+      "poisson",
+      "quinoa",
+      "concombre",
+      "maïs",
+      "avocat",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "riche",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_063",
+    "nom": "Maffe aux Légumes Royal",
+    "ingredients": [
+      "courgette",
+      "pate_d_arachide",
+      "tomate",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_064",
+    "nom": "Bowl au Tofu Épicé",
+    "ingredients": [
+      "tofu",
+      "quinoa",
+      "concombre",
+      "piment",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "epice",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_065",
+    "nom": "Soupe aux Légumes Épicée",
+    "ingredients": [
+      "courgette",
+      "bouillon",
+      "oignon",
+      "piment",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_066",
+    "nom": "Wok au Poisson Express",
+    "ingredients": [
+      "poisson",
+      "sauce_soja",
+      "mais",
+      "nouilles",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_067",
+    "nom": "Grillade au Tofu Douce",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "herbes_de_provence",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "doux",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_068",
+    "nom": "Couscous aux Légumes Gourmand",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_069",
+    "nom": "Wok aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "sauce_soja",
+      "mais",
+      "nouilles",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_070",
+    "nom": "Lasagne au Poisson Express",
+    "ingredients": [
+      "poisson",
+      "pates",
+      "oignon",
+      "mais",
+      "tomate",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_071",
+    "nom": "Wok aux Légumes Royal",
+    "ingredients": [
+      "courgette",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_072",
+    "nom": "Lasagne aux Oeufs Royale",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "oeuf",
+      "champignons",
+      "fromage"
+    ],
+    "tags": [
+      "fete",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_073",
+    "nom": "Yassa aux Légumes Gourmand",
+    "ingredients": [
+      "moutarde",
+      "courgette",
+      "oignon",
+      "citron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "diner",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_074",
+    "nom": "Soupe au Boeuf Gourmande",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "boeuf",
+      "creme_fraiche",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_075",
+    "nom": "Soupe aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "bouillon",
+      "oignon",
+      "pomme_de_terre",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_076",
+    "nom": "Tchep d'Agneau Royal",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "tomate",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_077",
+    "nom": "Salade aux Oeufs Maison",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "oeuf",
+      "laitue",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_078",
+    "nom": "Wok d'Agneau Épicé",
+    "ingredients": [
+      "sauce_soja",
+      "agneau",
+      "nouilles",
+      "champignons",
+      "piment",
+      "poivron"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_079",
+    "nom": "Grillade d'Agneau Épicée",
+    "ingredients": [
+      "oignon",
+      "piment",
+      "citron",
+      "agneau"
+    ],
+    "tags": [
+      "grillade",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_080",
+    "nom": "Maffe aux Oeufs Express",
+    "ingredients": [
+      "mais",
+      "pate_d_arachide",
+      "tomate",
+      "oeuf",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_081",
+    "nom": "Curry aux Crevettes Gourmand",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "crevettes",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "chaud",
+      "riche",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_082",
+    "nom": "Lasagne d'Agneau Royale",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "agneau",
+      "tomate",
+      "champignons",
+      "fromage"
+    ],
+    "tags": [
+      "fete",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_083",
+    "nom": "Curry au Poulet Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "curry",
+      "lait_de_coco",
+      "poulet",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_084",
+    "nom": "Brochette d'Agneau Épicée",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "piment",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_085",
+    "nom": "Grillade aux Oeufs Maison",
+    "ingredients": [
+      "oignon",
+      "oeuf",
+      "piment",
+      "citron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_086",
+    "nom": "Grillade aux Crevettes Gourmande",
+    "ingredients": [
+      "oignon",
+      "crevettes",
+      "piment",
+      "citron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "grillade",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_087",
+    "nom": "Maffe d'Agneau Épicé",
+    "ingredients": [
+      "agneau",
+      "pate_d_arachide",
+      "tomate",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_088",
+    "nom": "Wok au Poulet Maison",
+    "ingredients": [
+      "sauce_soja",
+      "nouilles",
+      "poulet",
+      "champignons",
+      "poivron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_089",
+    "nom": "Salade au Boeuf Royale",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "champignons",
+      "boeuf",
+      "laitue"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_090",
+    "nom": "Yassa aux Légumes Royal",
+    "ingredients": [
+      "moutarde",
+      "courgette",
+      "oignon",
+      "champignons",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_091",
+    "nom": "Alloco aux Oeufs Gourmand",
+    "ingredients": [
+      "huile",
+      "banane_aloco",
+      "oeuf",
+      "piment",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "riche",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_092",
+    "nom": "Soupe aux Oeufs Douce",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "herbes_de_provence",
+      "oeuf",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_093",
+    "nom": "Salade au Poulet Maison",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "poulet",
+      "pomme_de_terre",
+      "laitue"
+    ],
+    "tags": [
+      "familial",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_094",
+    "nom": "Riz Gras d'Agneau Épicé",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "tomate",
+      "piment",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_095",
+    "nom": "Lasagne d'Agneau Express",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "mais",
+      "agneau",
+      "tomate",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_096",
+    "nom": "Maffe d'Agneau Express",
+    "ingredients": [
+      "mais",
+      "agneau",
+      "pate_d_arachide",
+      "tomate",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_097",
+    "nom": "Soupe au Boeuf Maison",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "boeuf",
+      "pomme_de_terre",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_098",
+    "nom": "Couscous aux Oeufs Doux",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "herbes_de_provence",
+      "carotte",
+      "oeuf",
+      "semoule"
+    ],
+    "tags": [
+      "doux",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_099",
+    "nom": "Curry aux Légumes Épicé",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_100",
+    "nom": "Curry aux Légumes Doux",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "herbes_de_provence",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_101",
+    "nom": "Tchep aux Crevettes Gourmand",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "crevettes",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_102",
+    "nom": "Brochette aux Crevettes Maison",
+    "ingredients": [
+      "oignon",
+      "crevettes",
+      "poivron",
+      "pomme_de_terre",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_103",
+    "nom": "Alloco aux Oeufs Épicé",
+    "ingredients": [
+      "oeuf",
+      "piment",
+      "banane_aloco",
+      "huile"
+    ],
+    "tags": [
+      "fast_food",
+      "friture",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_104",
+    "nom": "Tchep au Tofu Royal",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "tomate",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_105",
+    "nom": "Lasagne au Boeuf Express",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "mais",
+      "tomate",
+      "boeuf",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_106",
+    "nom": "Wok d'Agneau Doux",
+    "ingredients": [
+      "sauce_soja",
+      "agneau",
+      "herbes_de_provence",
+      "nouilles",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_107",
+    "nom": "Brochette aux Crevettes Gourmande",
+    "ingredients": [
+      "oignon",
+      "crevettes",
+      "poivron",
+      "epices",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_108",
+    "nom": "Riz Gras au Poulet Gourmand",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "poulet",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_109",
+    "nom": "Tchep aux Oeufs Épicé",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "oeuf",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_110",
+    "nom": "Sauté au Poulet Royal",
+    "ingredients": [
+      "sauce_soja",
+      "carotte",
+      "poulet",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_111",
+    "nom": "Riz Gras aux Crevettes Gourmand",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "crevettes",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_112",
+    "nom": "Wok au Poulet Gourmand",
+    "ingredients": [
+      "sauce_soja",
+      "nouilles",
+      "poulet",
+      "champignons",
+      "poivron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "riche"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_113",
+    "nom": "Maffe au Poulet Express",
+    "ingredients": [
+      "mais",
+      "pate_d_arachide",
+      "tomate",
+      "poulet",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_114",
+    "nom": "Lasagne au Poisson Gourmande",
+    "ingredients": [
+      "poisson",
+      "pates",
+      "oignon",
+      "tomate",
+      "creme_fraiche",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_115",
+    "nom": "Sauté aux Crevettes Gourmand",
+    "ingredients": [
+      "sauce_soja",
+      "crevettes",
+      "carotte",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_116",
+    "nom": "Sauté d'Agneau Doux",
+    "ingredients": [
+      "sauce_soja",
+      "agneau",
+      "herbes_de_provence",
+      "carotte",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_117",
+    "nom": "Couscous aux Crevettes Épicé",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "crevettes",
+      "carotte",
+      "semoule",
+      "piment"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_118",
+    "nom": "Soupe aux Oeufs Épicée",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "oeuf",
+      "piment",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_119",
+    "nom": "Yassa aux Crevettes Express",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "mais",
+      "crevettes",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_120",
+    "nom": "Sauté au Poisson Doux",
+    "ingredients": [
+      "poisson",
+      "sauce_soja",
+      "herbes_de_provence",
+      "carotte",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_121",
+    "nom": "Grillade au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "piment",
+      "citron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_122",
+    "nom": "Salade au Poisson Épicée",
+    "ingredients": [
+      "poisson",
+      "concombre",
+      "tomate",
+      "piment",
+      "laitue"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_123",
+    "nom": "Bowl aux Oeufs Express",
+    "ingredients": [
+      "mais",
+      "quinoa",
+      "concombre",
+      "oeuf",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "rapide",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_124",
+    "nom": "Wok d'Agneau Maison",
+    "ingredients": [
+      "sauce_soja",
+      "agneau",
+      "nouilles",
+      "champignons",
+      "poivron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_125",
+    "nom": "Curry aux Légumes Royal",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_126",
+    "nom": "Brochette au Poulet Douce",
+    "ingredients": [
+      "oignon",
+      "herbes_de_provence",
+      "poulet",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_127",
+    "nom": "Curry au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_128",
+    "nom": "Soupe aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "bouillon",
+      "oignon",
+      "mais",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "rapide",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_129",
+    "nom": "Grillade aux Oeufs Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "oeuf",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "grillade",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_130",
+    "nom": "Brochette au Poisson Gourmande",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "poivron",
+      "epices",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_131",
+    "nom": "Soupe aux Crevettes Express",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "mais",
+      "crevettes",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "rapide",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_132",
+    "nom": "Alloco au Poulet Express",
+    "ingredients": [
+      "mais",
+      "huile",
+      "banane_aloco",
+      "poulet",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "rapide",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_133",
+    "nom": "Lasagne au Boeuf Gourmande",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "boeuf",
+      "creme_fraiche",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_134",
+    "nom": "Tchep aux Crevettes Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "tomate",
+      "crevettes",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_135",
+    "nom": "Salade au Boeuf Douce",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "herbes_de_provence",
+      "boeuf",
+      "laitue"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_136",
+    "nom": "Yassa aux Légumes Maison",
+    "ingredients": [
+      "moutarde",
+      "courgette",
+      "oignon",
+      "citron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_137",
+    "nom": "Riz Gras aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "mais",
+      "tomate",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_138",
+    "nom": "Grillade aux Crevettes Maison",
+    "ingredients": [
+      "oignon",
+      "crevettes",
+      "piment",
+      "citron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_139",
+    "nom": "Bowl au Boeuf Doux",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "herbes_de_provence",
+      "maïs",
+      "boeuf",
+      "avocat"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_140",
+    "nom": "Couscous au Boeuf Gourmand",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "boeuf",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_141",
+    "nom": "Bowl aux Crevettes Gourmand",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "crevettes",
+      "maïs",
+      "avocat",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "riche",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_142",
+    "nom": "Curry aux Crevettes Maison",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "crevettes",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_143",
+    "nom": "Soupe au Poisson Épicée",
+    "ingredients": [
+      "poisson",
+      "bouillon",
+      "oignon",
+      "piment",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_144",
+    "nom": "Bowl aux Oeufs Épicé",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "oeuf",
+      "piment",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "epice",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_145",
+    "nom": "Sauté d'Agneau Gourmand",
+    "ingredients": [
+      "sauce_soja",
+      "agneau",
+      "carotte",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_146",
+    "nom": "Yassa au Poulet Épicé",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "poulet",
+      "piment",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_147",
+    "nom": "Tchep aux Oeufs Gourmand",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "oeuf",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_148",
+    "nom": "Grillade aux Légumes Royale",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "champignons",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "fete",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_149",
+    "nom": "Grillade au Poulet Royale",
+    "ingredients": [
+      "oignon",
+      "poulet",
+      "champignons",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "fete",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_150",
+    "nom": "Maffe au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "pate_d_arachide",
+      "tomate",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_151",
+    "nom": "Lasagne aux Oeufs Gourmande",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "oeuf",
+      "creme_fraiche",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_152",
+    "nom": "Bowl au Tofu Gourmand",
+    "ingredients": [
+      "tofu",
+      "quinoa",
+      "concombre",
+      "maïs",
+      "avocat",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "riche",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_153",
+    "nom": "Couscous aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "mais",
+      "pois_chiches",
+      "carotte",
+      "semoule"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_154",
+    "nom": "Maffe aux Crevettes Doux",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "herbes_de_provence",
+      "crevettes",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_155",
+    "nom": "Grillade aux Oeufs Épicée",
+    "ingredients": [
+      "oeuf",
+      "oignon",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "grillade",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_156",
+    "nom": "Alloco au Poulet Royal",
+    "ingredients": [
+      "huile",
+      "banane_aloco",
+      "poulet",
+      "piment",
+      "champignons"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_157",
+    "nom": "Tchep aux Oeufs Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "tomate",
+      "oeuf",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_158",
+    "nom": "Soupe au Poulet Douce",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "herbes_de_provence",
+      "poulet",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_159",
+    "nom": "Salade d'Agneau Maison",
+    "ingredients": [
+      "agneau",
+      "concombre",
+      "tomate",
+      "pomme_de_terre",
+      "laitue"
+    ],
+    "tags": [
+      "familial",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_160",
+    "nom": "Brochette aux Légumes Douce",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "herbes_de_provence",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_161",
+    "nom": "Riz Gras aux Légumes Royal",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "tomate",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_162",
+    "nom": "Salade au Poulet Royale",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "poulet",
+      "champignons",
+      "laitue"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_163",
+    "nom": "Yassa aux Oeufs Royal",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "oeuf",
+      "champignons",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_164",
+    "nom": "Wok au Poulet Épicé",
+    "ingredients": [
+      "sauce_soja",
+      "nouilles",
+      "poulet",
+      "champignons",
+      "piment",
+      "poivron"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_165",
+    "nom": "Tchep au Boeuf Épicé",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "piment",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_166",
+    "nom": "Riz Gras aux Légumes Doux",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_167",
+    "nom": "Alloco aux Légumes Gourmand",
+    "ingredients": [
+      "courgette",
+      "huile",
+      "banane_aloco",
+      "piment",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "riche",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_168",
+    "nom": "Grillade au Boeuf Royale",
+    "ingredients": [
+      "oignon",
+      "champignons",
+      "piment",
+      "citron",
+      "boeuf"
+    ],
+    "tags": [
+      "fete",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_169",
+    "nom": "Couscous aux Crevettes Maison",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "crevettes",
+      "carotte",
+      "semoule",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_170",
+    "nom": "Alloco au Boeuf Maison",
+    "ingredients": [
+      "huile",
+      "banane_aloco",
+      "piment",
+      "boeuf",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_171",
+    "nom": "Couscous au Poisson Épicé",
+    "ingredients": [
+      "courgette",
+      "poisson",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "piment"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_172",
+    "nom": "Lasagne d'Agneau Douce",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "agneau",
+      "tomate",
+      "herbes_de_provence",
+      "fromage"
+    ],
+    "tags": [
+      "doux",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_173",
+    "nom": "Lasagne aux Crevettes Gourmande",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "crevettes",
+      "creme_fraiche",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_174",
+    "nom": "Tchep au Poisson Royal",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "tomate",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_175",
+    "nom": "Salade aux Oeufs Royale",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "oeuf",
+      "champignons",
+      "laitue"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_176",
+    "nom": "Alloco au Poulet Doux",
+    "ingredients": [
+      "huile",
+      "herbes_de_provence",
+      "banane_aloco",
+      "poulet",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_177",
+    "nom": "Curry au Poisson Doux",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "herbes_de_provence",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_178",
+    "nom": "Alloco aux Oeufs Royal",
+    "ingredients": [
+      "huile",
+      "banane_aloco",
+      "oeuf",
+      "champignons",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_179",
+    "nom": "Yassa aux Crevettes Gourmand",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "crevettes",
+      "citron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "diner",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_180",
+    "nom": "Bowl aux Crevettes Doux",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "herbes_de_provence",
+      "crevettes",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_181",
+    "nom": "Grillade au Poulet Douce",
+    "ingredients": [
+      "oignon",
+      "herbes_de_provence",
+      "poulet",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "doux",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_182",
+    "nom": "Riz Gras aux Oeufs Doux",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "oeuf",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_183",
+    "nom": "Yassa au Boeuf Maison",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "citron",
+      "boeuf",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_184",
+    "nom": "Alloco aux Crevettes Gourmand",
+    "ingredients": [
+      "huile",
+      "banane_aloco",
+      "crevettes",
+      "piment",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "riche",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_185",
+    "nom": "Sauté aux Oeufs Épicé",
+    "ingredients": [
+      "sauce_soja",
+      "carotte",
+      "oeuf",
+      "piment",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "asiatique",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_186",
+    "nom": "Brochette au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "poivron",
+      "pomme_de_terre",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_187",
+    "nom": "Grillade au Tofu Gourmande",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "piment",
+      "citron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "grillade",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_188",
+    "nom": "Yassa aux Crevettes Maison",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "crevettes",
+      "citron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_189",
+    "nom": "Wok au Boeuf Épicé",
+    "ingredients": [
+      "poivron",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "piment",
+      "boeuf"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_190",
+    "nom": "Wok au Tofu Épicé",
+    "ingredients": [
+      "tofu",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "piment",
+      "poivron"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_191",
+    "nom": "Lasagne aux Crevettes Express",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "mais",
+      "tomate",
+      "crevettes",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_192",
+    "nom": "Brochette d'Agneau Douce",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "herbes_de_provence",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_193",
+    "nom": "Salade au Poulet Gourmande",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "poulet",
+      "laitue",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_194",
+    "nom": "Curry aux Oeufs Gourmand",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "oeuf",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "chaud",
+      "riche",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_195",
+    "nom": "Yassa au Poulet Maison",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "poulet",
+      "citron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_196",
+    "nom": "Lasagne au Tofu Épicée",
+    "ingredients": [
+      "tofu",
+      "pates",
+      "oignon",
+      "tomate",
+      "piment",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_197",
+    "nom": "Tchep au Boeuf Doux",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_198",
+    "nom": "Riz Gras au Poulet Épicé",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "poulet",
+      "piment",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_199",
+    "nom": "Sauté au Poisson Épicé",
+    "ingredients": [
+      "poisson",
+      "sauce_soja",
+      "carotte",
+      "piment",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "asiatique",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_200",
+    "nom": "Brochette aux Oeufs Maison",
+    "ingredients": [
+      "oignon",
+      "oeuf",
+      "poivron",
+      "pomme_de_terre",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_201",
+    "nom": "Yassa au Poisson Royal",
+    "ingredients": [
+      "moutarde",
+      "poisson",
+      "oignon",
+      "champignons",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_202",
+    "nom": "Wok aux Crevettes Doux",
+    "ingredients": [
+      "sauce_soja",
+      "herbes_de_provence",
+      "crevettes",
+      "nouilles",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_203",
+    "nom": "Couscous d'Agneau Express",
+    "ingredients": [
+      "courgette",
+      "mais",
+      "pois_chiches",
+      "agneau",
+      "carotte",
+      "semoule"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_204",
+    "nom": "Wok au Boeuf Gourmand",
+    "ingredients": [
+      "poivron",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "boeuf",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "riche"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_205",
+    "nom": "Maffe au Poulet Doux",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "herbes_de_provence",
+      "poulet",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_206",
+    "nom": "Wok au Poulet Royal",
+    "ingredients": [
+      "sauce_soja",
+      "nouilles",
+      "poulet",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_207",
+    "nom": "Tchep au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "tomate",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_208",
+    "nom": "Riz Gras aux Crevettes Maison",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "crevettes",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_209",
+    "nom": "Tchep aux Crevettes Royal",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "crevettes",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_210",
+    "nom": "Curry au Poulet Épicé",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "poulet",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_211",
+    "nom": "Lasagne aux Oeufs Express",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "mais",
+      "tomate",
+      "oeuf",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_212",
+    "nom": "Alloco aux Légumes Doux",
+    "ingredients": [
+      "courgette",
+      "huile",
+      "herbes_de_provence",
+      "banane_aloco",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_213",
+    "nom": "Curry aux Légumes Gourmand",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "chaud",
+      "riche",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_214",
+    "nom": "Couscous au Tofu Maison",
+    "ingredients": [
+      "courgette",
+      "tofu",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_215",
+    "nom": "Riz Gras aux Oeufs Gourmand",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "oeuf",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_216",
+    "nom": "Sauté au Poisson Royal",
+    "ingredients": [
+      "poisson",
+      "sauce_soja",
+      "carotte",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_217",
+    "nom": "Alloco au Poisson Épicé",
+    "ingredients": [
+      "poisson",
+      "piment",
+      "banane_aloco",
+      "huile"
+    ],
+    "tags": [
+      "fast_food",
+      "friture",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_218",
+    "nom": "Salade aux Légumes Douce",
+    "ingredients": [
+      "courgette",
+      "concombre",
+      "tomate",
+      "herbes_de_provence",
+      "laitue"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_219",
+    "nom": "Wok aux Légumes Doux",
+    "ingredients": [
+      "courgette",
+      "sauce_soja",
+      "herbes_de_provence",
+      "nouilles",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_220",
+    "nom": "Alloco au Poisson Royal",
+    "ingredients": [
+      "poisson",
+      "huile",
+      "banane_aloco",
+      "piment",
+      "champignons"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_221",
+    "nom": "Alloco au Poisson Doux",
+    "ingredients": [
+      "poisson",
+      "huile",
+      "herbes_de_provence",
+      "banane_aloco",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_222",
+    "nom": "Bowl aux Crevettes Express",
+    "ingredients": [
+      "mais",
+      "quinoa",
+      "concombre",
+      "crevettes",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "rapide",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_223",
+    "nom": "Wok aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "poivron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_224",
+    "nom": "Bowl au Poulet Épicé",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "poulet",
+      "piment",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "epice",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_225",
+    "nom": "Lasagne au Poisson Épicée",
+    "ingredients": [
+      "poisson",
+      "pates",
+      "oignon",
+      "tomate",
+      "piment",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_226",
+    "nom": "Alloco au Boeuf Épicé",
+    "ingredients": [
+      "boeuf",
+      "piment",
+      "banane_aloco",
+      "huile"
+    ],
+    "tags": [
+      "fast_food",
+      "friture",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_227",
+    "nom": "Salade au Tofu Royale",
+    "ingredients": [
+      "tofu",
+      "concombre",
+      "tomate",
+      "champignons",
+      "laitue"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_228",
+    "nom": "Couscous au Poulet Doux",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "herbes_de_provence",
+      "carotte",
+      "poulet",
+      "semoule"
+    ],
+    "tags": [
+      "doux",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_229",
+    "nom": "Lasagne au Boeuf Douce",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "boeuf",
+      "fromage"
+    ],
+    "tags": [
+      "doux",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_230",
+    "nom": "Grillade aux Oeufs Gourmande",
+    "ingredients": [
+      "oignon",
+      "oeuf",
+      "piment",
+      "citron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "grillade",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_231",
+    "nom": "Wok au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "poivron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_232",
+    "nom": "Yassa au Poulet Doux",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "herbes_de_provence",
+      "poulet",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_233",
+    "nom": "Salade au Tofu Épicée",
+    "ingredients": [
+      "tofu",
+      "concombre",
+      "tomate",
+      "piment",
+      "laitue"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_234",
+    "nom": "Yassa au Boeuf Express",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "mais",
+      "citron",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_235",
+    "nom": "Riz Gras au Poulet Royal",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "poulet",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_236",
+    "nom": "Salade aux Crevettes Express",
+    "ingredients": [
+      "mais",
+      "concombre",
+      "tomate",
+      "crevettes",
+      "laitue"
+    ],
+    "tags": [
+      "frais",
+      "rapide",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_237",
+    "nom": "Curry aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "mais",
+      "curry",
+      "lait_de_coco",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_238",
+    "nom": "Riz Gras d'Agneau Gourmand",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "tomate",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_239",
+    "nom": "Couscous au Tofu Épicé",
+    "ingredients": [
+      "courgette",
+      "tofu",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "piment"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_240",
+    "nom": "Brochette au Poulet Royale",
+    "ingredients": [
+      "oignon",
+      "poulet",
+      "champignons",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_241",
+    "nom": "Wok au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "poivron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_242",
+    "nom": "Riz Gras aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "tomate",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_243",
+    "nom": "Brochette au Poulet Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "poulet",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_244",
+    "nom": "Alloco au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "huile",
+      "banane_aloco",
+      "piment",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_245",
+    "nom": "Bowl au Tofu Doux",
+    "ingredients": [
+      "tofu",
+      "quinoa",
+      "concombre",
+      "herbes_de_provence",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_246",
+    "nom": "Riz Gras aux Crevettes Épicé",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "crevettes",
+      "piment",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_247",
+    "nom": "Yassa au Poisson Maison",
+    "ingredients": [
+      "moutarde",
+      "poisson",
+      "oignon",
+      "citron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_248",
+    "nom": "Tchep au Boeuf Royal",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "champignons",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_249",
+    "nom": "Sauté d'Agneau Épicé",
+    "ingredients": [
+      "sauce_soja",
+      "agneau",
+      "carotte",
+      "piment",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "asiatique",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_250",
+    "nom": "Tchep au Poulet Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "tomate",
+      "poulet",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_251",
+    "nom": "Soupe aux Oeufs Express",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "mais",
+      "oeuf",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "rapide",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_252",
+    "nom": "Brochette d'Agneau Gourmande",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "poivron",
+      "epices",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_253",
+    "nom": "Lasagne au Poulet Douce",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "poulet",
+      "fromage"
+    ],
+    "tags": [
+      "doux",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_254",
+    "nom": "Yassa au Tofu Royal",
+    "ingredients": [
+      "moutarde",
+      "tofu",
+      "oignon",
+      "champignons",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_255",
+    "nom": "Alloco d'Agneau Doux",
+    "ingredients": [
+      "huile",
+      "agneau",
+      "herbes_de_provence",
+      "banane_aloco",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_256",
+    "nom": "Grillade au Boeuf Douce",
+    "ingredients": [
+      "oignon",
+      "herbes_de_provence",
+      "piment",
+      "citron",
+      "boeuf"
+    ],
+    "tags": [
+      "doux",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_257",
+    "nom": "Curry au Poisson Express",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "mais",
+      "curry",
+      "lait_de_coco",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_258",
+    "nom": "Couscous aux Oeufs Épicé",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "oeuf",
+      "semoule",
+      "piment"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_259",
+    "nom": "Brochette au Poisson Douce",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "herbes_de_provence",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_260",
+    "nom": "Sauté aux Légumes Gourmand",
+    "ingredients": [
+      "courgette",
+      "sauce_soja",
+      "carotte",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_261",
+    "nom": "Curry aux Oeufs Royal",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "oeuf",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_262",
+    "nom": "Sauté aux Oeufs Doux",
+    "ingredients": [
+      "sauce_soja",
+      "herbes_de_provence",
+      "carotte",
+      "oeuf",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_263",
+    "nom": "Soupe au Tofu Royale",
+    "ingredients": [
+      "tofu",
+      "bouillon",
+      "oignon",
+      "champignons",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_264",
+    "nom": "Salade aux Oeufs Gourmande",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "oeuf",
+      "laitue",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_265",
+    "nom": "Tchep au Tofu Gourmand",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "tomate",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_266",
+    "nom": "Brochette aux Légumes Royale",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "champignons",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_267",
+    "nom": "Wok aux Crevettes Royal",
+    "ingredients": [
+      "sauce_soja",
+      "crevettes",
+      "nouilles",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_268",
+    "nom": "Brochette au Poisson Royale",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "champignons",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_269",
+    "nom": "Wok au Poisson Gourmand",
+    "ingredients": [
+      "poisson",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "poivron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "riche"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_270",
+    "nom": "Brochette aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "mais",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_271",
+    "nom": "Maffe aux Crevettes Royal",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "crevettes",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_272",
+    "nom": "Yassa aux Oeufs Gourmand",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "oeuf",
+      "citron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "diner",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_273",
+    "nom": "Grillade au Boeuf Épicée",
+    "ingredients": [
+      "boeuf",
+      "oignon",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "grillade",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_274",
+    "nom": "Lasagne aux Crevettes Maison",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "crevettes",
+      "pomme_de_terre",
+      "fromage"
+    ],
+    "tags": [
+      "familial",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_275",
+    "nom": "Riz Gras au Boeuf Doux",
+    "ingredients": [
+      "poivron",
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_276",
+    "nom": "Maffe au Poisson Gourmand",
+    "ingredients": [
+      "poisson",
+      "pate_d_arachide",
+      "tomate",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_277",
+    "nom": "Bowl au Tofu Express",
+    "ingredients": [
+      "tofu",
+      "mais",
+      "quinoa",
+      "concombre",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "rapide",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_278",
+    "nom": "Salade aux Crevettes Gourmande",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "crevettes",
+      "laitue",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_279",
+    "nom": "Curry au Boeuf Doux",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "herbes_de_provence",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_280",
+    "nom": "Yassa d'Agneau Express",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "mais",
+      "agneau",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_281",
+    "nom": "Grillade au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "piment",
+      "citron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_282",
+    "nom": "Grillade d'Agneau Douce",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "herbes_de_provence",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "doux",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_283",
+    "nom": "Brochette au Poulet Gourmande",
+    "ingredients": [
+      "oignon",
+      "poulet",
+      "poivron",
+      "epices",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_284",
+    "nom": "Tchep d'Agneau Épicé",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "tomate",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_285",
+    "nom": "Maffe au Boeuf Royal",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "champignons",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_286",
+    "nom": "Maffe au Poulet Maison",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "poulet",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_287",
+    "nom": "Soupe au Boeuf Royale",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "champignons",
+      "boeuf",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_288",
+    "nom": "Lasagne aux Oeufs Épicée",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "oeuf",
+      "piment",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_289",
+    "nom": "Bowl au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "quinoa",
+      "concombre",
+      "maïs",
+      "pomme_de_terre",
+      "avocat"
+    ],
+    "tags": [
+      "familial",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_290",
+    "nom": "Alloco d'Agneau Épicé",
+    "ingredients": [
+      "piment",
+      "banane_aloco",
+      "huile",
+      "agneau"
+    ],
+    "tags": [
+      "fast_food",
+      "friture",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_291",
+    "nom": "Sauté au Boeuf Express",
+    "ingredients": [
+      "sauce_soja",
+      "boeuf",
+      "mais",
+      "carotte",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_292",
+    "nom": "Soupe aux Légumes Gourmande",
+    "ingredients": [
+      "courgette",
+      "bouillon",
+      "oignon",
+      "creme_fraiche",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_293",
+    "nom": "Curry d'Agneau Gourmand",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "curry",
+      "lait_de_coco",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "chaud",
+      "riche",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_294",
+    "nom": "Riz Gras au Tofu Gourmand",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "tomate",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_295",
+    "nom": "Wok aux Oeufs Doux",
+    "ingredients": [
+      "sauce_soja",
+      "herbes_de_provence",
+      "nouilles",
+      "oeuf",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_296",
+    "nom": "Soupe aux Oeufs Royale",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "oeuf",
+      "champignons",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_297",
+    "nom": "Salade au Poisson Gourmande",
+    "ingredients": [
+      "poisson",
+      "concombre",
+      "tomate",
+      "laitue",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_298",
+    "nom": "Lasagne au Boeuf Épicée",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "piment",
+      "boeuf",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_299",
+    "nom": "Soupe au Tofu Douce",
+    "ingredients": [
+      "tofu",
+      "bouillon",
+      "oignon",
+      "herbes_de_provence",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_300",
+    "nom": "Couscous au Boeuf Express",
+    "ingredients": [
+      "courgette",
+      "mais",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "boeuf"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_301",
+    "nom": "Couscous d'Agneau Maison",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "agneau",
+      "carotte",
+      "semoule",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_302",
+    "nom": "Riz Gras aux Oeufs Maison",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "oeuf",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_303",
+    "nom": "Wok d'Agneau Express",
+    "ingredients": [
+      "sauce_soja",
+      "mais",
+      "agneau",
+      "nouilles",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_304",
+    "nom": "Curry aux Oeufs Épicé",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "oeuf",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_305",
+    "nom": "Sauté d'Agneau Maison",
+    "ingredients": [
+      "sauce_soja",
+      "agneau",
+      "carotte",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_306",
+    "nom": "Maffe au Poisson Épicé",
+    "ingredients": [
+      "poisson",
+      "pate_d_arachide",
+      "tomate",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_307",
+    "nom": "Brochette au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "poivron",
+      "pomme_de_terre",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_308",
+    "nom": "Salade au Boeuf Épicée",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "piment",
+      "boeuf",
+      "laitue"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_309",
+    "nom": "Lasagne aux Légumes Épicée",
+    "ingredients": [
+      "courgette",
+      "pates",
+      "oignon",
+      "tomate",
+      "piment",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_310",
+    "nom": "Tchep au Poulet Maison",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "poulet",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_311",
+    "nom": "Soupe au Boeuf Épicée",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "piment",
+      "boeuf",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_312",
+    "nom": "Sauté au Boeuf Gourmand",
+    "ingredients": [
+      "sauce_soja",
+      "boeuf",
+      "carotte",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_313",
+    "nom": "Tchep aux Oeufs Royal",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "oeuf",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_314",
+    "nom": "Wok au Poulet Doux",
+    "ingredients": [
+      "sauce_soja",
+      "herbes_de_provence",
+      "nouilles",
+      "poulet",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_315",
+    "nom": "Alloco au Tofu Épicé",
+    "ingredients": [
+      "tofu",
+      "piment",
+      "banane_aloco",
+      "huile"
+    ],
+    "tags": [
+      "fast_food",
+      "friture",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_316",
+    "nom": "Yassa aux Légumes Épicé",
+    "ingredients": [
+      "moutarde",
+      "courgette",
+      "oignon",
+      "piment",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_317",
+    "nom": "Wok au Tofu Gourmand",
+    "ingredients": [
+      "tofu",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "poivron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_318",
+    "nom": "Curry au Tofu Épicé",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_319",
+    "nom": "Soupe au Boeuf Express",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "mais",
+      "boeuf",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "rapide",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_320",
+    "nom": "Brochette aux Crevettes Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "crevettes",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_321",
+    "nom": "Wok au Poisson Épicé",
+    "ingredients": [
+      "poisson",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "piment",
+      "poivron"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_322",
+    "nom": "Soupe au Poulet Gourmande",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "poulet",
+      "creme_fraiche",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_323",
+    "nom": "Lasagne aux Oeufs Maison",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "oeuf",
+      "pomme_de_terre",
+      "fromage"
+    ],
+    "tags": [
+      "familial",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_324",
+    "nom": "Couscous aux Oeufs Gourmand",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "oeuf",
+      "semoule",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_325",
+    "nom": "Maffe aux Oeufs Doux",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "herbes_de_provence",
+      "oeuf",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_326",
+    "nom": "Sauté au Poisson Gourmand",
+    "ingredients": [
+      "poisson",
+      "sauce_soja",
+      "carotte",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_327",
+    "nom": "Alloco aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "huile",
+      "banane_aloco",
+      "piment",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_328",
+    "nom": "Maffe aux Crevettes Maison",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "crevettes",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_329",
+    "nom": "Sauté d'Agneau Express",
+    "ingredients": [
+      "sauce_soja",
+      "mais",
+      "agneau",
+      "carotte",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_330",
+    "nom": "Tchep aux Crevettes Épicé",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "crevettes",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_331",
+    "nom": "Couscous aux Crevettes Royal",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "crevettes",
+      "carotte",
+      "semoule",
+      "champignons"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_332",
+    "nom": "Couscous au Poulet Épicé",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "poulet",
+      "semoule",
+      "piment"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_333",
+    "nom": "Lasagne aux Crevettes Royale",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "crevettes",
+      "champignons",
+      "fromage"
+    ],
+    "tags": [
+      "fete",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_334",
+    "nom": "Brochette aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "poivron",
+      "pomme_de_terre",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_335",
+    "nom": "Alloco au Tofu Gourmand",
+    "ingredients": [
+      "tofu",
+      "huile",
+      "banane_aloco",
+      "piment",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "riche",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_336",
+    "nom": "Brochette aux Oeufs Gourmande",
+    "ingredients": [
+      "oignon",
+      "oeuf",
+      "poivron",
+      "epices",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_337",
+    "nom": "Riz Gras au Tofu Express",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "mais",
+      "tomate",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_338",
+    "nom": "Lasagne aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "pates",
+      "oignon",
+      "tomate",
+      "pomme_de_terre",
+      "fromage"
+    ],
+    "tags": [
+      "familial",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_339",
+    "nom": "Yassa au Boeuf Épicé",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "piment",
+      "citron",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_340",
+    "nom": "Soupe d'Agneau Maison",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "agneau",
+      "pomme_de_terre",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_341",
+    "nom": "Riz Gras d'Agneau Maison",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "tomate",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_342",
+    "nom": "Alloco aux Crevettes Royal",
+    "ingredients": [
+      "huile",
+      "banane_aloco",
+      "crevettes",
+      "champignons",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_343",
+    "nom": "Couscous au Tofu Gourmand",
+    "ingredients": [
+      "courgette",
+      "tofu",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_344",
+    "nom": "Bowl aux Crevettes Épicé",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "crevettes",
+      "piment",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "epice",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_345",
+    "nom": "Brochette au Poisson Épicée",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "piment",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_346",
+    "nom": "Lasagne au Tofu Royale",
+    "ingredients": [
+      "tofu",
+      "pates",
+      "oignon",
+      "tomate",
+      "champignons",
+      "fromage"
+    ],
+    "tags": [
+      "fete",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_347",
+    "nom": "Lasagne au Poulet Maison",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "poulet",
+      "pomme_de_terre",
+      "fromage"
+    ],
+    "tags": [
+      "familial",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_348",
+    "nom": "Yassa au Tofu Gourmand",
+    "ingredients": [
+      "moutarde",
+      "tofu",
+      "oignon",
+      "citron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "diner",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_349",
+    "nom": "Wok au Boeuf Maison",
+    "ingredients": [
+      "poivron",
+      "sauce_soja",
+      "nouilles",
+      "champignons",
+      "boeuf",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_350",
+    "nom": "Lasagne au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "pates",
+      "oignon",
+      "tomate",
+      "pomme_de_terre",
+      "fromage"
+    ],
+    "tags": [
+      "familial",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_351",
+    "nom": "Alloco d'Agneau Express",
+    "ingredients": [
+      "mais",
+      "huile",
+      "agneau",
+      "banane_aloco",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "rapide",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_352",
+    "nom": "Brochette d'Agneau Royale",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "champignons",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_353",
+    "nom": "Maffe d'Agneau Doux",
+    "ingredients": [
+      "agneau",
+      "pate_d_arachide",
+      "tomate",
+      "herbes_de_provence",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_354",
+    "nom": "Lasagne aux Légumes Royale",
+    "ingredients": [
+      "courgette",
+      "pates",
+      "oignon",
+      "tomate",
+      "champignons",
+      "fromage"
+    ],
+    "tags": [
+      "fete",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_355",
+    "nom": "Wok au Poulet Express",
+    "ingredients": [
+      "sauce_soja",
+      "mais",
+      "nouilles",
+      "poulet",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_356",
+    "nom": "Sauté au Tofu Royal",
+    "ingredients": [
+      "tofu",
+      "sauce_soja",
+      "carotte",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_357",
+    "nom": "Bowl aux Légumes Épicé",
+    "ingredients": [
+      "courgette",
+      "quinoa",
+      "concombre",
+      "piment",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "epice",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_358",
+    "nom": "Alloco au Poulet Gourmand",
+    "ingredients": [
+      "huile",
+      "banane_aloco",
+      "poulet",
+      "piment",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "riche",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_359",
+    "nom": "Curry aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_360",
+    "nom": "Maffe aux Oeufs Épicé",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "oeuf",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_361",
+    "nom": "Brochette aux Oeufs Royale",
+    "ingredients": [
+      "oignon",
+      "oeuf",
+      "champignons",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_362",
+    "nom": "Tchep aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "tomate",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_363",
+    "nom": "Soupe au Poisson Express",
+    "ingredients": [
+      "poisson",
+      "bouillon",
+      "oignon",
+      "mais",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "rapide",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_364",
+    "nom": "Sauté aux Légumes Doux",
+    "ingredients": [
+      "courgette",
+      "sauce_soja",
+      "herbes_de_provence",
+      "carotte",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_365",
+    "nom": "Sauté au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "sauce_soja",
+      "carotte",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_366",
+    "nom": "Soupe au Tofu Gourmande",
+    "ingredients": [
+      "tofu",
+      "bouillon",
+      "oignon",
+      "creme_fraiche",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_367",
+    "nom": "Lasagne au Poulet Gourmande",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "poulet",
+      "creme_fraiche",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_368",
+    "nom": "Riz Gras aux Oeufs Épicé",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "oeuf",
+      "piment",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_369",
+    "nom": "Curry au Tofu Royal",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_370",
+    "nom": "Salade d'Agneau Douce",
+    "ingredients": [
+      "agneau",
+      "concombre",
+      "tomate",
+      "herbes_de_provence",
+      "laitue"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_371",
+    "nom": "Soupe d'Agneau Épicée",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "agneau",
+      "piment",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_372",
+    "nom": "Couscous au Poulet Maison",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "poulet",
+      "semoule",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_373",
+    "nom": "Brochette d'Agneau Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "agneau",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_374",
+    "nom": "Wok d'Agneau Gourmand",
+    "ingredients": [
+      "sauce_soja",
+      "agneau",
+      "nouilles",
+      "champignons",
+      "poivron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "riche"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_375",
+    "nom": "Maffe aux Crevettes Épicé",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "crevettes",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_376",
+    "nom": "Maffe aux Légumes Doux",
+    "ingredients": [
+      "courgette",
+      "pate_d_arachide",
+      "tomate",
+      "herbes_de_provence",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_377",
+    "nom": "Couscous au Boeuf Royal",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "champignons",
+      "boeuf"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_378",
+    "nom": "Grillade aux Légumes Maison",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "piment",
+      "citron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_379",
+    "nom": "Curry au Poisson Gourmand",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "chaud",
+      "riche",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_380",
+    "nom": "Tchep au Boeuf Gourmand",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "boeuf",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_381",
+    "nom": "Alloco aux Légumes Royal",
+    "ingredients": [
+      "courgette",
+      "huile",
+      "banane_aloco",
+      "champignons",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_382",
+    "nom": "Salade d'Agneau Épicée",
+    "ingredients": [
+      "agneau",
+      "concombre",
+      "tomate",
+      "piment",
+      "laitue"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_383",
+    "nom": "Curry au Tofu Gourmand",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "chaud",
+      "riche",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_384",
+    "nom": "Tchep d'Agneau Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "agneau",
+      "tomate",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_385",
+    "nom": "Riz Gras au Poulet Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "tomate",
+      "poulet",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_386",
+    "nom": "Alloco d'Agneau Gourmand",
+    "ingredients": [
+      "huile",
+      "agneau",
+      "banane_aloco",
+      "piment",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "fast_food",
+      "riche",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_387",
+    "nom": "Soupe aux Crevettes Gourmande",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "crevettes",
+      "creme_fraiche",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_388",
+    "nom": "Sauté d'Agneau Royal",
+    "ingredients": [
+      "sauce_soja",
+      "agneau",
+      "carotte",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_389",
+    "nom": "Salade aux Légumes Gourmande",
+    "ingredients": [
+      "courgette",
+      "concombre",
+      "tomate",
+      "laitue",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_390",
+    "nom": "Grillade aux Légumes Douce",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "herbes_de_provence",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "doux",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_391",
+    "nom": "Curry au Tofu Doux",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "herbes_de_provence",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_392",
+    "nom": "Yassa au Poisson Express",
+    "ingredients": [
+      "moutarde",
+      "poisson",
+      "oignon",
+      "mais",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_393",
+    "nom": "Tchep au Poisson Doux",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_394",
+    "nom": "Bowl aux Oeufs Gourmand",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "oeuf",
+      "maïs",
+      "avocat",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "riche",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_395",
+    "nom": "Curry au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_396",
+    "nom": "Riz Gras au Boeuf Express",
+    "ingredients": [
+      "poivron",
+      "oignon",
+      "mais",
+      "tomate",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_397",
+    "nom": "Grillade au Poisson Douce",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "herbes_de_provence",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "doux",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_398",
+    "nom": "Sauté au Poulet Maison",
+    "ingredients": [
+      "sauce_soja",
+      "carotte",
+      "poulet",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_399",
+    "nom": "Brochette au Boeuf Royale",
+    "ingredients": [
+      "poivron",
+      "oignon",
+      "champignons",
+      "boeuf",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_400",
+    "nom": "Bowl aux Crevettes Royal",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "crevettes",
+      "champignons",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_401",
+    "nom": "Bowl au Boeuf Royal",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "champignons",
+      "maïs",
+      "boeuf",
+      "avocat"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_402",
+    "nom": "Curry au Boeuf Royal",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "champignons",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_403",
+    "nom": "Grillade au Poulet Gourmande",
+    "ingredients": [
+      "oignon",
+      "poulet",
+      "piment",
+      "citron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "grillade",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_404",
+    "nom": "Salade d'Agneau Gourmande",
+    "ingredients": [
+      "agneau",
+      "concombre",
+      "tomate",
+      "laitue",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_405",
+    "nom": "Lasagne au Boeuf Maison",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "boeuf",
+      "pomme_de_terre",
+      "fromage"
+    ],
+    "tags": [
+      "familial",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_406",
+    "nom": "Couscous au Poisson Express",
+    "ingredients": [
+      "courgette",
+      "poisson",
+      "mais",
+      "pois_chiches",
+      "carotte",
+      "semoule"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_407",
+    "nom": "Soupe d'Agneau Douce",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "agneau",
+      "herbes_de_provence",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "doux",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_408",
+    "nom": "Bowl d'Agneau Maison",
+    "ingredients": [
+      "agneau",
+      "quinoa",
+      "concombre",
+      "maïs",
+      "pomme_de_terre",
+      "avocat"
+    ],
+    "tags": [
+      "familial",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_409",
+    "nom": "Tchep au Poisson Épicé",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "tomate",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_410",
+    "nom": "Sauté aux Crevettes Express",
+    "ingredients": [
+      "sauce_soja",
+      "mais",
+      "crevettes",
+      "carotte",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_411",
+    "nom": "Couscous aux Légumes Royal",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "champignons",
+      "semoule"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_412",
+    "nom": "Alloco au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "huile",
+      "banane_aloco",
+      "piment",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_413",
+    "nom": "Sauté au Boeuf Royal",
+    "ingredients": [
+      "sauce_soja",
+      "boeuf",
+      "carotte",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_414",
+    "nom": "Riz Gras au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "tomate",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_415",
+    "nom": "Sauté au Tofu Express",
+    "ingredients": [
+      "tofu",
+      "sauce_soja",
+      "mais",
+      "carotte",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_416",
+    "nom": "Alloco d'Agneau Royal",
+    "ingredients": [
+      "huile",
+      "agneau",
+      "banane_aloco",
+      "champignons",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_417",
+    "nom": "Riz Gras aux Crevettes Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "tomate",
+      "crevettes",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_418",
+    "nom": "Tchep au Poisson Maison",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "tomate",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_419",
+    "nom": "Maffe au Tofu Royal",
+    "ingredients": [
+      "tofu",
+      "pate_d_arachide",
+      "tomate",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_420",
+    "nom": "Brochette aux Crevettes Royale",
+    "ingredients": [
+      "oignon",
+      "crevettes",
+      "champignons",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_421",
+    "nom": "Curry aux Oeufs Maison",
+    "ingredients": [
+      "oignon",
+      "curry",
+      "lait_de_coco",
+      "oeuf",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_422",
+    "nom": "Bowl aux Légumes Royal",
+    "ingredients": [
+      "courgette",
+      "quinoa",
+      "concombre",
+      "champignons",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_423",
+    "nom": "Tchep d'Agneau Gourmand",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "tomate",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_424",
+    "nom": "Maffe au Tofu Gourmand",
+    "ingredients": [
+      "tofu",
+      "pate_d_arachide",
+      "tomate",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_425",
+    "nom": "Wok au Tofu Doux",
+    "ingredients": [
+      "tofu",
+      "sauce_soja",
+      "herbes_de_provence",
+      "nouilles",
+      "champignons",
+      "poivron"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_426",
+    "nom": "Soupe au Poulet Royale",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "poulet",
+      "champignons",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_427",
+    "nom": "Bowl au Poisson Doux",
+    "ingredients": [
+      "poisson",
+      "quinoa",
+      "concombre",
+      "herbes_de_provence",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_428",
+    "nom": "Curry d'Agneau Royal",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "curry",
+      "lait_de_coco",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_429",
+    "nom": "Alloco aux Crevettes Doux",
+    "ingredients": [
+      "huile",
+      "herbes_de_provence",
+      "crevettes",
+      "banane_aloco",
+      "piment"
+    ],
+    "tags": [
+      "fast_food",
+      "doux",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_430",
+    "nom": "Bowl d'Agneau Royal",
+    "ingredients": [
+      "agneau",
+      "quinoa",
+      "concombre",
+      "champignons",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_431",
+    "nom": "Bowl au Boeuf Épicé",
+    "ingredients": [
+      "quinoa",
+      "concombre",
+      "piment",
+      "maïs",
+      "boeuf",
+      "avocat"
+    ],
+    "tags": [
+      "frais",
+      "epice",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_432",
+    "nom": "Tchep aux Oeufs Maison",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "oeuf",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_433",
+    "nom": "Grillade au Poisson Gourmande",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "piment",
+      "citron",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "grillade",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_434",
+    "nom": "Brochette au Tofu Express",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "mais",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "grillade",
+      "rapide"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_435",
+    "nom": "Lasagne aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "pates",
+      "oignon",
+      "mais",
+      "tomate",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_436",
+    "nom": "Yassa d'Agneau Épicé",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "agneau",
+      "piment",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_437",
+    "nom": "Grillade aux Crevettes Royale",
+    "ingredients": [
+      "oignon",
+      "crevettes",
+      "champignons",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "fete",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_438",
+    "nom": "Sauté aux Oeufs Royal",
+    "ingredients": [
+      "sauce_soja",
+      "carotte",
+      "oeuf",
+      "champignons",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_439",
+    "nom": "Salade au Poisson Express",
+    "ingredients": [
+      "poisson",
+      "mais",
+      "concombre",
+      "tomate",
+      "laitue"
+    ],
+    "tags": [
+      "frais",
+      "rapide",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_440",
+    "nom": "Tchep au Tofu Épicé",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "tomate",
+      "piment",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_441",
+    "nom": "Sauté au Tofu Maison",
+    "ingredients": [
+      "tofu",
+      "sauce_soja",
+      "carotte",
+      "poivron",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_442",
+    "nom": "Salade au Poisson Douce",
+    "ingredients": [
+      "poisson",
+      "concombre",
+      "tomate",
+      "herbes_de_provence",
+      "laitue"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_443",
+    "nom": "Yassa aux Crevettes Doux",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "herbes_de_provence",
+      "crevettes",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_444",
+    "nom": "Sauté au Tofu Épicé",
+    "ingredients": [
+      "tofu",
+      "sauce_soja",
+      "carotte",
+      "piment",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "asiatique",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_445",
+    "nom": "Tchep aux Légumes Royal",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "tomate",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_446",
+    "nom": "Yassa aux Oeufs Épicé",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "oeuf",
+      "piment",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_447",
+    "nom": "Riz Gras aux Légumes Gourmand",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "tomate",
+      "poivron",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_448",
+    "nom": "Maffe aux Oeufs Maison",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "oeuf",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_449",
+    "nom": "Brochette d'Agneau Maison",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "poivron",
+      "pomme_de_terre",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_450",
+    "nom": "Yassa au Boeuf Gourmand",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "citron",
+      "boeuf",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "diner",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_451",
+    "nom": "Maffe aux Oeufs Gourmand",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "oeuf",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_452",
+    "nom": "Maffe au Boeuf Maison",
+    "ingredients": [
+      "pate_d_arachide",
+      "tomate",
+      "boeuf",
+      "pomme_de_terre",
+      "riz"
+    ],
+    "tags": [
+      "familial",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_453",
+    "nom": "Couscous aux Crevettes Doux",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "herbes_de_provence",
+      "crevettes",
+      "carotte",
+      "semoule"
+    ],
+    "tags": [
+      "doux",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_454",
+    "nom": "Brochette au Boeuf Maison",
+    "ingredients": [
+      "poivron",
+      "oignon",
+      "boeuf",
+      "pomme_de_terre",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "familial",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_455",
+    "nom": "Soupe au Tofu Express",
+    "ingredients": [
+      "tofu",
+      "bouillon",
+      "oignon",
+      "mais",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "rapide",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_456",
+    "nom": "Couscous aux Légumes Épicé",
+    "ingredients": [
+      "courgette",
+      "pois_chiches",
+      "carotte",
+      "semoule",
+      "piment"
+    ],
+    "tags": [
+      "traditionnel",
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan"
+    ]
+  },
+  {
+    "id": "plat_457",
+    "nom": "Brochette au Tofu Royale",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "champignons",
+      "poivron",
+      "epices"
+    ],
+    "tags": [
+      "fast_food",
+      "fete",
+      "grillade"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_458",
+    "nom": "Grillade au Poulet Maison",
+    "ingredients": [
+      "oignon",
+      "poulet",
+      "piment",
+      "citron",
+      "pomme_de_terre"
+    ],
+    "tags": [
+      "familial",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_459",
+    "nom": "Alloco au Boeuf Express",
+    "ingredients": [
+      "mais",
+      "huile",
+      "banane_aloco",
+      "piment",
+      "boeuf"
+    ],
+    "tags": [
+      "fast_food",
+      "rapide",
+      "friture",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_460",
+    "nom": "Yassa au Poulet Express",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "mais",
+      "poulet",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "diner",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_461",
+    "nom": "Curry aux Crevettes Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "curry",
+      "lait_de_coco",
+      "crevettes",
+      "riz"
+    ],
+    "tags": [
+      "chaud",
+      "rapide",
+      "epice"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_462",
+    "nom": "Grillade aux Oeufs Royale",
+    "ingredients": [
+      "oignon",
+      "oeuf",
+      "champignons",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "fete",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_463",
+    "nom": "Grillade d'Agneau Royale",
+    "ingredients": [
+      "oignon",
+      "agneau",
+      "champignons",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "fete",
+      "grillade",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_464",
+    "nom": "Lasagne au Tofu Douce",
+    "ingredients": [
+      "tofu",
+      "pates",
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "fromage"
+    ],
+    "tags": [
+      "doux",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_465",
+    "nom": "Tchep au Tofu Express",
+    "ingredients": [
+      "tofu",
+      "oignon",
+      "mais",
+      "tomate",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_466",
+    "nom": "Maffe aux Crevettes Express",
+    "ingredients": [
+      "mais",
+      "pate_d_arachide",
+      "tomate",
+      "crevettes",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_467",
+    "nom": "Lasagne aux Oeufs Douce",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "oeuf",
+      "fromage"
+    ],
+    "tags": [
+      "doux",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_468",
+    "nom": "Grillade d'Agneau Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "agneau",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "grillade",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_469",
+    "nom": "Couscous au Poisson Doux",
+    "ingredients": [
+      "courgette",
+      "poisson",
+      "pois_chiches",
+      "herbes_de_provence",
+      "carotte",
+      "semoule"
+    ],
+    "tags": [
+      "doux",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_470",
+    "nom": "Soupe au Poulet Épicée",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "poulet",
+      "piment",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "chaud",
+      "leger",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_471",
+    "nom": "Soupe aux Crevettes Royale",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "crevettes",
+      "champignons",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_472",
+    "nom": "Alloco aux Crevettes Épicé",
+    "ingredients": [
+      "crevettes",
+      "piment",
+      "banane_aloco",
+      "huile"
+    ],
+    "tags": [
+      "fast_food",
+      "friture",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_473",
+    "nom": "Riz Gras au Boeuf Épicé",
+    "ingredients": [
+      "poivron",
+      "oignon",
+      "tomate",
+      "piment",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_474",
+    "nom": "Lasagne au Poisson Royale",
+    "ingredients": [
+      "poisson",
+      "pates",
+      "oignon",
+      "tomate",
+      "champignons",
+      "fromage"
+    ],
+    "tags": [
+      "fete",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_475",
+    "nom": "Lasagne au Poulet Royale",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "poulet",
+      "champignons",
+      "fromage"
+    ],
+    "tags": [
+      "fete",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_476",
+    "nom": "Tchep au Poulet Royal",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "poulet",
+      "champignons",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "traditionnel",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_477",
+    "nom": "Grillade au Poulet Express",
+    "ingredients": [
+      "oignon",
+      "mais",
+      "poulet",
+      "piment",
+      "citron"
+    ],
+    "tags": [
+      "grillade",
+      "rapide",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_478",
+    "nom": "Lasagne aux Légumes Douce",
+    "ingredients": [
+      "courgette",
+      "pates",
+      "oignon",
+      "tomate",
+      "herbes_de_provence",
+      "fromage"
+    ],
+    "tags": [
+      "doux",
+      "italien",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_479",
+    "nom": "Bowl au Tofu Royal",
+    "ingredients": [
+      "tofu",
+      "quinoa",
+      "concombre",
+      "champignons",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_480",
+    "nom": "Sauté au Boeuf Doux",
+    "ingredients": [
+      "sauce_soja",
+      "boeuf",
+      "herbes_de_provence",
+      "carotte",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "asiatique",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_481",
+    "nom": "Salade aux Légumes Royale",
+    "ingredients": [
+      "courgette",
+      "concombre",
+      "tomate",
+      "champignons",
+      "laitue"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_482",
+    "nom": "Couscous aux Crevettes Express",
+    "ingredients": [
+      "courgette",
+      "mais",
+      "pois_chiches",
+      "crevettes",
+      "carotte",
+      "semoule"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_483",
+    "nom": "Tchep au Poulet Gourmand",
+    "ingredients": [
+      "oignon",
+      "tomate",
+      "poulet",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_484",
+    "nom": "Yassa au Poulet Royal",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "poulet",
+      "champignons",
+      "citron",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_485",
+    "nom": "Salade au Boeuf Express",
+    "ingredients": [
+      "mais",
+      "concombre",
+      "tomate",
+      "boeuf",
+      "laitue"
+    ],
+    "tags": [
+      "frais",
+      "rapide",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_486",
+    "nom": "Tchep aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "mais",
+      "tomate",
+      "riz"
+    ],
+    "tags": [
+      "traditionnel",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_487",
+    "nom": "Maffe aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "mais",
+      "pate_d_arachide",
+      "tomate",
+      "riz"
+    ],
+    "tags": [
+      "riche",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_488",
+    "nom": "Lasagne au Poulet Épicée",
+    "ingredients": [
+      "pates",
+      "oignon",
+      "tomate",
+      "poulet",
+      "piment",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "epice",
+      "diner"
+    ],
+    "regimes": [
+      "halal"
+    ]
+  },
+  {
+    "id": "plat_489",
+    "nom": "Maffe au Poisson Doux",
+    "ingredients": [
+      "poisson",
+      "pate_d_arachide",
+      "tomate",
+      "herbes_de_provence",
+      "riz"
+    ],
+    "tags": [
+      "doux",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_490",
+    "nom": "Salade aux Crevettes Douce",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "herbes_de_provence",
+      "crevettes",
+      "laitue"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_491",
+    "nom": "Yassa au Boeuf Royal",
+    "ingredients": [
+      "moutarde",
+      "oignon",
+      "champignons",
+      "citron",
+      "boeuf",
+      "riz"
+    ],
+    "tags": [
+      "fete",
+      "diner",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_492",
+    "nom": "Salade au Tofu Gourmande",
+    "ingredients": [
+      "tofu",
+      "concombre",
+      "tomate",
+      "laitue",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "frais",
+      "entree",
+      "leger",
+      "riche"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_493",
+    "nom": "Salade aux Crevettes Royale",
+    "ingredients": [
+      "concombre",
+      "tomate",
+      "crevettes",
+      "champignons",
+      "laitue"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "entree",
+      "leger"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_494",
+    "nom": "Sauté aux Légumes Express",
+    "ingredients": [
+      "courgette",
+      "sauce_soja",
+      "mais",
+      "carotte",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "asiatique",
+      "rapide",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_495",
+    "nom": "Lasagne aux Légumes Gourmande",
+    "ingredients": [
+      "courgette",
+      "pates",
+      "oignon",
+      "tomate",
+      "creme_fraiche",
+      "fromage"
+    ],
+    "tags": [
+      "italien",
+      "riche",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien"
+    ]
+  },
+  {
+    "id": "plat_496",
+    "nom": "Bowl au Poisson Royal",
+    "ingredients": [
+      "poisson",
+      "quinoa",
+      "concombre",
+      "champignons",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "fete",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_497",
+    "nom": "Tchep au Poisson Gourmand",
+    "ingredients": [
+      "poisson",
+      "oignon",
+      "tomate",
+      "riz",
+      "creme_fraiche"
+    ],
+    "tags": [
+      "traditionnel",
+      "riche",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_498",
+    "nom": "Riz Gras aux Légumes Épicé",
+    "ingredients": [
+      "courgette",
+      "oignon",
+      "tomate",
+      "piment",
+      "poivron",
+      "riz"
+    ],
+    "tags": [
+      "epice",
+      "dejeuner"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_499",
+    "nom": "Bowl aux Légumes Doux",
+    "ingredients": [
+      "courgette",
+      "quinoa",
+      "concombre",
+      "herbes_de_provence",
+      "maïs",
+      "avocat"
+    ],
+    "tags": [
+      "doux",
+      "frais",
+      "healthy"
+    ],
+    "regimes": [
+      "halal",
+      "vegetarien",
+      "vegan",
+      "sans-gluten"
+    ]
+  },
+  {
+    "id": "plat_500",
+    "nom": "Soupe d'Agneau Royale",
+    "ingredients": [
+      "bouillon",
+      "oignon",
+      "agneau",
+      "champignons",
+      "persil",
+      "ail"
+    ],
+    "tags": [
+      "fete",
+      "chaud",
+      "leger",
+      "diner"
+    ],
+    "regimes": [
+      "halal",
+      "sans-gluten"
+    ]
+  }
+]
