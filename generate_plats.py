@@ -41,7 +41,6 @@ variations = [
     {"nom_m": "Gourmand", "nom_f": "Gourmande", "tag": "riche", "ing": "creme_fraiche"}
 ]
 
-# 2. Listes de filtrage pour déterminer les régimes réels
 VIANDES_POISSONS = {"poulet", "boeuf", "poisson", "crevettes", "agneau"}
 PRODUITS_ANIMAUX = VIANDES_POISSONS.union({"fromage", "oeuf", "creme_fraiche", "bouillon"})
 GLUTEN = {"pates", "semoule", "nouilles"}
@@ -50,52 +49,51 @@ def determiner_regimes(ingredients):
     ing_set = set(ingredients)
     regimes = ["halal"]
     
-    # Végétarien (aucune viande ni poisson)
     if not ing_set.intersection(VIANDES_POISSONS):
         regimes.append("vegetarien")
         
-    # Vegan (aucun produit d'origine animale)
     if not ing_set.intersection(PRODUITS_ANIMAUX):
         regimes.append("vegan")
         
-    # Sans Gluten
     if not ing_set.intersection(GLUTEN):
         regimes.append("sans-gluten")
         
     return regimes
 
-# 3. Génération des 500 combinaisons sans doublons ni boucle infinie
-toutes_combinaisons = []
-for base in bases_plats:
-    for prot in proteines:
-        for var in variations:
-            toutes_combinaisons.append((base, prot, var))
+def generate_dishes(file_path="data/plats.json", count=500):
+    """Génère la liste de plats synthétiques et les sauvegarde dans un fichier JSON."""
+    toutes_combinaisons = []
+    for base in bases_plats:
+        for prot in proteines:
+            for var in variations:
+                toutes_combinaisons.append((base, prot, var))
 
-random.shuffle(toutes_combinaisons)
+    random.shuffle(toutes_combinaisons)
 
-plats = []
-for count, (base, prot, var) in enumerate(toutes_combinaisons[:500], start=1):
-    adj = var["nom_f"] if base["genre"] == "F" else var["nom_m"]
-    nom_plat = f"{base['nom']} {prot['nom']} {adj}"
-    
-    ingredients = list(set(base["ing_base"] + [prot["ing"], var["ing"]]))
-    tags = list(set(base["tags"] + [var["tag"]]))
-    regimes = determiner_regimes(ingredients)
-    
-    plat = {
-        "id": f"plat_{count:03d}",
-        "nom": nom_plat,
-        "ingredients": ingredients,
-        "tags": tags,
-        "regimes": regimes
-    }
-    plats.append(plat)
+    plats = []
+    for idx, (base, prot, var) in enumerate(toutes_combinaisons[:count], start=1):
+        adj = var["nom_f"] if base["genre"] == "F" else var["nom_m"]
+        nom_plat = f"{base['nom']} {prot['nom']} {adj}"
+        
+        ingredients = list(set(base["ing_base"] + [prot["ing"], var["ing"]]))
+        tags = list(set(base["tags"] + [var["tag"]]))
+        regimes = determiner_regimes(ingredients)
+        
+        plat = {
+            "id": f"plat_{idx:03d}",
+            "nom": nom_plat,
+            "ingredients": ingredients,
+            "tags": tags,
+            "regimes": regimes
+        }
+        plats.append(plat)
 
-# 4. Sauvegarde dans data/plats.json
-os.makedirs("data", exist_ok=True)
-chemin_fichier = os.path.join("data", "plats.json")
+    os.makedirs(os.path.dirname(file_path), exist_ok=True)
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(plats, f, ensure_ascii=False, indent=2)
 
-with open(chemin_fichier, "w", encoding="utf-8") as f:
-    json.dump(plats, f, ensure_ascii=False, indent=2)
+    print(f"🎉 Succès ! Le fichier '{file_path}' a été généré avec {len(plats)} plats !")
+    return plats
 
-print(f"🎉 Succès ! Le fichier '{chemin_fichier}' a été généré avec {len(plats)} plats !")
+if __name__ == "__main__":
+    generate_dishes()
