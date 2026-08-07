@@ -92,7 +92,7 @@ if __name__ == "__main__":
 
     preferences = ["halal", "poisson", "epice"]
 
-    recommendations = get_recommendations(preferences, dishes)
+    recommendations = get_recommendations(preferences, dishes)# c'est pour obtenir les recommandations de plats en fonction des préférences de l'utilisateur
 
     print("Top 3 des recommandations :")
     for dish in recommendations:
